@@ -1,6 +1,17 @@
 # vbe-decoder.py
 
-Decode one or multiple encoded VBScript files, often seen with a `.vbe` file extension.
+Decode one or multiple encoded VBScript files, often seen with a `.vbe` file extension into decoded `.vbs` files.
+
+## Installing requirements
+
+The following command will install the packages according to the configuration file requirements.txt.
+
+```shell
+
+usage: pip install -r requirements.txt
+```
+
+Note the -r option; without it, pip thinks you want to install a package named requirements.txt, which doesn't exist.
 
 ## Usage
 
@@ -21,6 +32,9 @@ optional arguments:
 ## Examples
 
 ```bash
+# install the packages
+$ pip install -r requirements.txt
+
 # display on stdout
 $ python3 vbe-decoder.py encoded.vbe
 
