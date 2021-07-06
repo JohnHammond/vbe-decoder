@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+		"eamodio.gitlens",
+		"jasonnutter.vscode-codeowners",
+		"shan.code-settings-sync",
+		"shd101wyy.markdown-preview-enhanced",
+		"wwm.better-align",
+		"yzhang.markdown-all-in-one",
+		"ms-python.python",
+		"editorconfig.editorconfig",
+		"usernamehw.errorlens",
+		"oderwat.indent-rainbow"
+	]
+}
