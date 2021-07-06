@@ -1,0 +1,9 @@
+
+* text=auto
+
+## Enforce text mode and CRLF line breaks
+*.md text eol=crlf
+*.txt text eol=crlf
+
+# Scripts
+*.py text eol=crlf

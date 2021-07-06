@@ -1,0 +1,22 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"files.encoding": "utf8",
+	"files.eol": "\r\n",
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
+}

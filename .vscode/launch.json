@@ -1,0 +1,12 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Python: Текущий файл",
+			"type": "python",
+			"request": "launch",
+			"program": "./vbe-decoder.py",
+			"console": "integratedTerminal"
+		}
+	]
+}
