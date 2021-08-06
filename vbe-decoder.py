@@ -99,8 +99,9 @@ def decode_files(files: list):
 
 def decode_file(file :str):
     try:
-        handle = open(file, 'r')
-        contents :str = handle.read()
+        handle = open(file, 'rb')
+        binary_content = handle.read()
+        contents :str = binary_content.decode('ascii', errors='ignore')
     except Exception as e:
         fatal_error(f'{e.message}')
     finally:
