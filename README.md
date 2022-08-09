@@ -28,6 +28,8 @@ $ python3 vbe-decoder.py encoded.vbe
 $ python3 vbe-decoder.py encoded.vbe -o decoded.vbs
 ```
 
+## Icon
+<a href="https://www.flaticon.com/free-icons/indent" title="indent icons">Indent icons created by Freepik - Flaticon</a>
 
 ---------------------------------
 
